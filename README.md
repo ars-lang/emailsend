@@ -7,6 +7,6 @@ To run my application please follow this steps:<br>
 Then:<br>
 <code>cd emailsend</code><br>
 And:<br>
-<code>./email</code><br>
+<code>./email</code> or double click to file<br>
 
 Please write email like this: example@domain.com, exp@xyz.xyz
